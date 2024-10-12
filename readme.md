@@ -1,6 +1,7 @@
 # GNOME Internet Speed Meter
-
 A lightweight script to display real-time internet speed in your GNOME top bar. This project uses the [Executor GNOME Extension](https://extensions.gnome.org/extension/2932/executor/) to run the script and update the speed dynamically.
+
+![Screenshot](image.png)
 
 ## Features
 
